@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/neelsomani-web2mcp-badge.png)](https://mseep.ai/app/neelsomani-web2mcp)
+
 # web2mcp
 
 A system that automatically generates expressive Model Context Protocol (MCP) implementations for any web application (SaaS or consumer-facing).
